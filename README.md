@@ -25,7 +25,7 @@
 
 - ☄️ I have always been fascinated by the mysterious nature of the universe. I love learning new trivia and facts about the planets, stars and the cosmos.
 
-- ₿ I am fascinated by the world of cryptocurrencies and its potential impact on our daily lives. I am particularly interested in blockchain technology, which offers the possibility of creating more transparent and secure systems, especially in areas such as finance and commerce.
+- 💰 I am fascinated by the world of cryptocurrencies and its potential impact on our daily lives. I am particularly interested in blockchain technology, which offers the possibility of creating more transparent and secure systems, especially in areas such as finance and commerce.
 
 
 ---
