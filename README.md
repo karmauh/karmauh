@@ -44,13 +44,6 @@
 </div>
 
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karmauh&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-
-
 
 <!--
 **karmauh/karmauh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
