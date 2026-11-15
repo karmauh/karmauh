@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="your-twitter-URL">
+    <a href="https://x.com/karmauh_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -22,9 +22,6 @@
 ---
 ### :man_technologist: About Me :
 - :telescope: Computer science student (4th year) building native iOS apps in Swift and backend services in Python. I care about clean architecture, tests and code that is easy to read and change. Currently looking for a junior / intern position.
-  
-- 💰 I am fascinated by the world of cryptocurrencies and its potential impact on our daily lives. I am particularly interested in blockchain technology, which offers the possibility of creating more transparent and secure systems, especially in areas such as finance and commerce.
-
 
 ---
 
